@@ -1,0 +1,263 @@
+body {
+    padding-top: 56px; /* Adjust this value based on your navbar height */
+  }
+  
+.section-content {
+    margin-top: -56px; /* Adjust this value based on your navbar height */
+    padding-top: 56px; /* Adjust this value based on your navbar height */
+  }
+  
+
+#navitem1{
+    color:antiquewhite;
+    font-weight: bold;
+    font-size:20px;
+   margin-left:450px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+#navitem2{
+    margin-left:20px;
+    color:antiquewhite;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size:20px;
+   
+}
+#navitem3{
+    margin-left:20px;
+    color:antiquewhite;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size:20px;
+   
+}
+#navitem4{
+    color:antiquewhite;
+    font-weight: bold;
+    font-size:20px;
+    margin-left:20px;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand{
+    margin-left:50px;
+}
+.folio{
+    
+    color:lightcoral;
+ font-family:35px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+span{
+    font-size:35px;
+    color:white;
+  margin-left:30%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+    
+}
+
+
+.image{
+    height:40vh;
+    width:40vh;
+    
+    margin-top:20px;
+    border-radius:50%;
+    border: 2px solid lightcoral;
+}
+.about-paraa{
+font-size:25px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-weight:500;
+padding-bottom:2px;
+text-decoration: dotted;
+
+color:white;
+
+}
+.about-para{
+font-size:35px;
+    font-weight:500;
+    font-weight:bold;
+    color:white;
+   
+}
+.about-heading{
+    font-weight:bold;
+    font-size:40px;
+    color:lightcoral;
+
+
+}
+.btn-transparent{
+    padding-left:2%;
+    padding-right:2%;
+    padding-top:6px;
+    padding-bottom:6px;
+    border-radius:20px;
+    font-size:13px;
+    font-weight:bold;
+   
+
+}
+.btn-light{
+    padding-left:4%;
+    padding-right:4%;
+    padding-top:6px;
+    padding-bottom:6px;
+    border-radius:20px;
+    background-color:lightcoral;
+    font-size:15px;
+    font-weight:bold;
+    color:white;
+}
+.icon{
+    
+    margin-top:10px;
+}
+.iconn{
+
+    margin-top:10px;
+    
+}
+.iconnn{
+    margin-top: 10px;
+    
+}
+.paraa{
+    color:antiquewhite;
+    font-size:13px;
+    font-weight:bold;
+}
+.head{
+    color:lightcoral;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:40px;
+ font-weight:bold;
+ 
+}
+/*.card1{
+    width:70px; 
+    background-color:black;
+    color:white;
+   box-shadow:initial;
+    border-radius:20px;
+   margin-left:140px;
+    border:2px solid white;
+    margin-top:20px;}*/
+   
+    
+    
+
+.card-heading{
+text-align:center;
+font-size:23px;
+color:lightcoral;
+font-style:unset;
+
+}
+/*.card-para{
+    font-size:18px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:bold;}*/
+
+
+/*.card2{
+
+    margin-top:20px;
+    background-color:black;
+  color:white;
+   box-shadow:initial;
+   border:2px solid white;
+    border-radius:20px;}*/
+
+
+.card-container:hover{
+    box-shadow: 5px 12px 50px rgba(168, 166, 165, 0.367);}
+
+
+.image1{
+    height:40vh;
+    width:35vh;
+    margin-top:60px;
+   border: 2px solid white;
+   margin-left:140px;
+}
+.self-heading{
+    font-size:20px;
+    margin-top:30px;
+    color:lightcoral;
+}
+.self-para{
+    color:aliceblue;
+    font-size:14px;
+  
+}
+.skills-head{
+    color:lightcoral;
+    font-size:40px;
+}
+.logo{
+   height:20vh;
+   width:20vh;
+    margin-right:30px;
+    margin-top:40px;
+    border-radius:10px;
+    border: 2px solid lightcoral;
+    
+}
+.eduhead{
+color:lightcoral;
+
+}
+
+.schoolimg{
+height:17vh;
+width:30vh;
+border-radius:15px;
+background-color:thistle;
+}
+.schlhead{
+    color:whitesmoke;
+    font-size:25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.schlpara{
+    color:white;
+    
+}
+.date{
+    color:cadetblue;
+    font-size:15px;
+}
+.card-headings{
+    margin-left:15px;
+}
+.prohead{
+    color:lightcoral;
+    text-align:center;
+font-size:40px;
+font-weight:bold;
+}
+.card-container{
+    background-color:black;
+    border-radius:15px;
+    height:20vh;
+
+}
+textarea{
+    color:white;
+}
+.contact-para{
+    text-align:center;
+    margin-bottom:30px;
+  
+    color:lightcoral;
+    font-weight:bold;
+}
+.icon{
+    margin-right:5px;
+}
